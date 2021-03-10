@@ -1,0 +1,31 @@
+body {  
+        font-family: 'Times New Roman', Times, serif;
+        background-color: #cc9999;
+        border: 5px solid white;
+        padding: 35px;
+}
+
+h1 {    
+        font-family: cursive;
+        font-size: 35px;
+        padding: 15px;
+}
+
+p {
+        font-size: 25px;
+        color: teal;
+}
+
+ul {
+        font-size: 20px;
+        color: white;
+}
+
+label {
+        font-size: 20px;
+        color: teal;
+      }
+      
+.input{
+        color: red;
+    }
